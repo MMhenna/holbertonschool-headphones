@@ -494,7 +494,7 @@ html {
     font-size: var(--font-large);
   }
 
-  #results .grid .element h2{
+  #results .grid .element p{
     position: relative;
     top: 12%;
   }
